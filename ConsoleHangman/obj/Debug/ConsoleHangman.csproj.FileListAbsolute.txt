@@ -1,0 +1,24 @@
+C:\Documents and Settings\cjudge.NGSPROD\My Documents\Visual Studio 2008\Projects\ConsoleHangman\ConsoleHangman\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cjudge.NGSPROD\My Documents\Visual Studio 2008\Projects\ConsoleHangman\ConsoleHangman\bin\Debug\ConsoleHangman.exe
+C:\Documents and Settings\cjudge.NGSPROD\My Documents\Visual Studio 2008\Projects\ConsoleHangman\ConsoleHangman\bin\Debug\ConsoleHangman.pdb
+C:\Documents and Settings\cjudge.NGSPROD\My Documents\Visual Studio 2008\Projects\ConsoleHangman\ConsoleHangman\obj\Debug\ConsoleHangman.exe
+C:\Documents and Settings\cjudge.NGSPROD\My Documents\Visual Studio 2008\Projects\ConsoleHangman\ConsoleHangman\obj\Debug\ConsoleHangman.pdb
+C:\Documents and Settings\cjudge.NGSPROD.000\My Documents\Visual Studio 2008\Projects\ConsoleHangman\ConsoleHangman\obj\Debug\ConsoleHangman.exe
+C:\Documents and Settings\cjudge.NGSPROD.000\My Documents\Visual Studio 2008\Projects\ConsoleHangman\ConsoleHangman\obj\Debug\ConsoleHangman.pdb
+G:\ConsoleHangman\ConsoleHangman\obj\Debug\ConsoleHangman.exe
+G:\ConsoleHangman\ConsoleHangman\obj\Debug\ConsoleHangman.pdb
+E:\ConsoleHangman\ConsoleHangman\obj\Debug\ConsoleHangman.exe
+E:\ConsoleHangman\ConsoleHangman\obj\Debug\ConsoleHangman.pdb
+E:\ConsoleHangman\ConsoleHangman\bin\Debug\ConsoleHangman.exe
+E:\ConsoleHangman\ConsoleHangman\bin\Debug\ConsoleHangman.pdb
+E:\ConsoleHangman\ConsoleHangman\obj\Debug\ResolveAssemblyReference.cache
+K:\Chris\ConsoleHangman\ConsoleHangman\obj\Debug\ConsoleHangman.exe
+K:\Chris\ConsoleHangman\ConsoleHangman\obj\Debug\ConsoleHangman.pdb
+K:\Chris\ConsoleHangman\ConsoleHangman\bin\Debug\ConsoleHangman.exe
+K:\Chris\ConsoleHangman\ConsoleHangman\bin\Debug\ConsoleHangman.pdb
+K:\Chris\ConsoleHangman\ConsoleHangman\obj\Debug\ResolveAssemblyReference.cache
+F:\Personal\Projects\ConsoleHangman\ConsoleHangman\obj\Debug\ConsoleHangman.exe
+F:\Personal\Projects\ConsoleHangman\ConsoleHangman\obj\Debug\ConsoleHangman.pdb
+F:\Personal\Projects\ConsoleHangman\ConsoleHangman\obj\Debug\ConsoleHangman.csprojResolveAssemblyReference.cache
+F:\Personal\Projects\ConsoleHangman\ConsoleHangman\bin\Debug\ConsoleHangman.exe
+F:\Personal\Projects\ConsoleHangman\ConsoleHangman\bin\Debug\ConsoleHangman.pdb
